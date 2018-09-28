@@ -1,0 +1,13 @@
+name: bayesiannormalitytest
+title: BayesianNormalityTest
+username:
+account: koenderks
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 482413
+bundleId: 1629081
+url: https://koenderks.shinyapps.io/bayesiannormalitytest/
+when: 1538988915.88367
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes|Facebook Friends.csv|stanMixture.rds|StanModels.R|stanNormal.rds|stanSkew.rds|Stats.csv
